@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'wxui'
-  s.version          = '5.0.1'
+  s.version          = '5.0.2'
   s.summary          = 'wuxieyun ui lib.'
 
   s.description      = <<-DESC
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.author       = { "jackning" => "270580156@qq.com" }
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/pengjinning/wxui-ios.git", :tag => "#{s.version}" }
-  s.vendored_frameworks = "frameworks/cocoapods/ui.framework"
+  s.vendored_frameworks = "frameworks/cocoapods/wxui.framework"
   s.requires_arc = true
 
   s.dependency "FMDB"
