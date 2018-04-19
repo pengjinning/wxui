@@ -1,0 +1,6 @@
+use_frameworks!
+target 'wxui_Tests' do
+  pod 'wxui', :path => '../'
+  
+  
+end

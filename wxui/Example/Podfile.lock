@@ -1,0 +1,16 @@
+PODS:
+  - wxui (0.1.0)
+
+DEPENDENCIES:
+  - wxui (from `../`)
+
+EXTERNAL SOURCES:
+  wxui:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  wxui: 986c9d2a35a5c3ada0d0f05b8f0a158843116bb7
+
+PODFILE CHECKSUM: 031de588a1f81ae0a74fec7aad261d6ff21d89dc
+
+COCOAPODS: 1.5.0
