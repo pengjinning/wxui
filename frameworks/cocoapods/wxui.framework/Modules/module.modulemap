@@ -1,0 +1,6 @@
+framework module wxui {
+  umbrella header "wxui.h"
+
+  export *
+  module * { export * }
+}
