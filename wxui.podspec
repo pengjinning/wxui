@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'wxui'
-  s.version          = '5.0.2'
+  s.version          = '5.0.3'
   s.summary          = 'wuxieyun ui lib.'
 
   s.description      = <<-DESC
